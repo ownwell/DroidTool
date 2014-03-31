@@ -1,11 +1,12 @@
 package com.cyning.android;
 
 /**
- * @author : 桥下一粒砂 chenyoca@gmail.com date : 2012-11-1 工具包
+ * @author : 息州子
+ * <p></p>
  */
 public interface Tookit {
 
-	String AUTHOR = "chenyoca@gmail.com";
+	String AUTHOR = "ownwell@126.com";
 
-	String VERSION = "2.0.0";
+	String VERSION = "1.0.0";
 }
